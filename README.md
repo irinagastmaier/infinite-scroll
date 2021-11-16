@@ -4,8 +4,8 @@
 
 ## Installation
 
-#. Clone or fork this repo and run `npm i`
-#. `npm install --legacy-peer-deps`
+Clone or fork this repo and run `npm i`
+`npm install --legacy-peer-deps`
 
 **Note** The `--legacy-peer-deps` is very important since this project uses [React Infinite Scroller](https://www.npmjs.com/package/react-infinite-scroller), which doesn't (yet) support React 17.
 
