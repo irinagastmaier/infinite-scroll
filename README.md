@@ -1,6 +1,6 @@
 # Infinite Scroll with Star Wars
 
-### A project to demonstrate React Query useInfiniteQuery, for the Udemy course "React Query: Server State Management for React"
+### A project to demonstrate React Query useInfiniteQuery
 
 ## Installation
 
