@@ -1,10 +1,10 @@
-# Infinite SWAPI
+# Infinite SCROLL
 
 ### A project to demonstrate React Query useInfiniteQuery, for the Udemy course "React Query: Server State Management for React"
 
 ## Installation
 
-#. Download this directory, or clone or fork this repo
+#. Clone or fork this repo and run `npm i`
 #. `npm install --legacy-peer-deps`
 
 **Note** The `--legacy-peer-deps` is very important since this project uses [React Infinite Scroller](https://www.npmjs.com/package/react-infinite-scroller), which doesn't (yet) support React 17.
