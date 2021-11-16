@@ -28,6 +28,7 @@ export function InfinitePeople() {
 
   return (
     <div>
+      <h1>People</h1>
       {isFetching && <div className='loading'>Loading...</div>}
       <InfiniteScroll loadMore={fetchNextPage} hasMore={hasNextPage} />
       {data.pages.map(pageData => {
